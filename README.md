@@ -1,6 +1,9 @@
 ## 👋 Hola, soy Alexander
 
 💻 Full Stack Developer
+⚡ Construyendo soluciones escalables y eficientes
+
+Desarrollador Full Stack enfocado en backend sólido y frontend moderno. Amante de la tecnología, el código limpio y la mejora continua.
 <!--
 **CodeMaster2004/CodeMaster2004** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
