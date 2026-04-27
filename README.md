@@ -17,7 +17,7 @@ y construcción de aplicaciones listas para producción.🚀
 
 ### 🧠 Backend
 <p>
-  <img src="https://skillicons.dev/icons?i=java,spring,dotnet,nodejs" />
+  <img src="https://skillicons.dev/icons?i=java,spring,dotnet,cs,nodejs,python" />
 </p>
 
 ### 🎨 Frontend
@@ -27,7 +27,8 @@ y construcción de aplicaciones listas para producción.🚀
 
 ### 🗄️ Bases de Datos
 <p>
-  <img src="https://skillicons.dev/icons?i=postgres,mongodb" />
+  <img src="https://skillicons.dev/icons?i=postgres,mongodb,mysql,redis" />
+  
 </p>
 
 ### 🔗 ORM / Acceso a Datos
@@ -40,6 +41,10 @@ y construcción de aplicaciones listas para producción.🚀
 <p>
   <img src="https://skillicons.dev/icons?i=linux,docker,git,github" />
 </p>
+
+---
+
+> Code. Learn. Build. Repeat. 🚀
 <!--
 **CodeMaster2004/CodeMaster2004** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
