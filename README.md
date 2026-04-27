@@ -1,4 +1,5 @@
 ## 👋 Hola, soy Alexander
+<h1 align="center">👋 Hola, soy Alexander</h1>
 
 Ingeniero de Sistemas | Full Stack Developer
 <img width="758" height="741" alt="165278cb-2239-4c06-82fb-b980a2398bef (1)" src="https://github.com/user-attachments/assets/e00a8be2-59bf-44c6-8b5a-4e941c276596" />
