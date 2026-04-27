@@ -2,7 +2,8 @@
 <h1 align="center">👋 Hola, soy Alexander</h1>
 <h3 align="center">Ingeniero de Sistemas | 💻 Full Stack Developer</h3>
 
-<img width="1046" height="1046" alt="imagen_circular_recortada" src="https://github.com/user-attachments/assets/ae054ab3-5c06-4946-a943-2054a6860e17" style="border-radius:50%;"/>
+<img width="500" height="500" alt="imagen_circular_recortada-removebg-preview" src="https://github.com/user-attachments/assets/3089fff1-2cc5-4d9f-bd2e-9aacbbbf42c7" />
+
 
 
 
