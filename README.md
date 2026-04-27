@@ -2,7 +2,7 @@
 <h1 align="center">👋 Hola, soy Alexander</h1>
 <h3 align="center">Ingeniero de Sistemas | 💻 Full Stack Developer</h3>
 <p align="center">
-  <img align="center" width="500" height="500" alt="imagen_circular_recortada-removebg-preview" src="/imagen_circular_recortada.png" />
+  <img align="center" width="400" height="400" alt="imagen_circular_recortada-removebg-preview" src="/imagen_circular_recortada.png" />
 </p>
 <p align="center">🇵🇪Perú💻</p>
 
