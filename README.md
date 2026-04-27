@@ -1,9 +1,11 @@
 ## 👋 Hola, soy Alexander
+<img width="758" height="741" alt="165278cb-2239-4c06-82fb-b980a2398bef (1)" src="https://github.com/user-attachments/assets/e00a8be2-59bf-44c6-8b5a-4e941c276596" />
 
 💻 Full Stack Developer
 ⚡ Construyendo soluciones escalables y eficientes
 
-Desarrollador Full Stack enfocado en backend sólido y frontend moderno. Amante de la tecnología, el código limpio y la mejora continua.
+Desarrollador Full Stack enfocado en backend sólido y frontend moderno.
+Amante de la tecnología, el código limpio y la mejora continua.
 <!--
 **CodeMaster2004/CodeMaster2004** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
